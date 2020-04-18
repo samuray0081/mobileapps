@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MapApi</string>
+    <string name="map_key" translatable="true">AIzaSyCM8552LnYcbzRNrLfYA1xuui6gzuZSRI0</string>
+</resources>
